@@ -3,3 +3,5 @@ venv/
 python.py
 spam.ipynb
 testing.py
+people.py
+__pycache__
